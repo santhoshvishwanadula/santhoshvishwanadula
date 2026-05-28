@@ -4,8 +4,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhoshvishwanadula)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A3A5C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://santhoshvishwanadula7-lgtm.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-vishwanadula/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A3A5C?style=for-the-badge&logo=google-chrome&logoColor=white)](https://santhoshvishwanadula.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshvishwanadula7@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Open%20To%20Work-00B37E?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
@@ -57,7 +57,7 @@ class SanthoshVishwanadula:
 <tr>
 <td width="50%">
 
-### 🤖 [Enterprise RAG Pipeline](https://github.com/santhoshvishwanadula7-lgtm/project-rag-pipeline)
+### 🤖 [Enterprise RAG Pipeline](https://github.com/santhoshvishwanadula-lgtm/project-rag-pipeline)
 GenAI-powered customer support assistant with RAG architecture integrating enterprise documents and product catalogues using OpenAI, LangChain, and FAISS.
 
 `LangChain` `OpenAI` `RAG` `FastAPI` `AWS`
@@ -65,7 +65,7 @@ GenAI-powered customer support assistant with RAG architecture integrating enter
 </td>
 <td width="50%">
 
-### 🔍 [Semantic Vector Search](https://github.com/santhoshvishwanadula7-lgtm/project-semantic-search)
+### 🔍 [Semantic Vector Search](https://github.com/santhoshvishwanadula-lgtm/project-semantic-search)
 Replaced keyword search with dense embedding retrieval using FAISS and semantic reranking — delivering intent-aware responses across enterprise knowledge bases.
 
 `FAISS` `Embeddings` `PostgreSQL` `Python`
@@ -75,7 +75,7 @@ Replaced keyword search with dense embedding retrieval using FAISS and semantic 
 <tr>
 <td width="50%">
 
-### 🧠 [LLM Knowledge Platform](https://github.com/santhoshvishwanadula7-lgtm/project-llm-knowledge-platform)
+### 🧠 [LLM Knowledge Platform](https://github.com/santhoshvishwanadula-lgtm/project-llm-knowledge-platform)
 Enterprise knowledge assistant built on Azure OpenAI, LangChain, and Azure Cognitive Search with Sentence Transformer embeddings and Power BI reporting.
 
 `Azure OpenAI` `LangChain` `FAISS` `Power BI`
@@ -83,7 +83,7 @@ Enterprise knowledge assistant built on Azure OpenAI, LangChain, and Azure Cogni
 </td>
 <td width="50%">
 
-### 📊 [Enterprise Data Lake](https://github.com/santhoshvishwanadula7-lgtm/project-data-lake)
+### 📊 [Enterprise Data Lake](https://github.com/santhoshvishwanadula-lgtm/project-data-lake)
 End-to-end data engineering — Azure Data Factory ingestion, PySpark ETL in Databricks, Synapse Analytics warehouse, and Tableau/Power BI dashboards.
 
 `PySpark` `Azure Databricks` `Synapse` `Tableau`
@@ -122,8 +122,8 @@ End-to-end data engineering — Azure Data Factory ingestion, PySpark ETL in Dat
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshvishwanadula7-lgtm&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=1A3A5C&icon_color=B8973A&border_color=e4e0d8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshvishwanadula7-lgtm&layout=compact&theme=default&title_color=1A3A5C&border_color=e4e0d8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshvishwanadula-lgtm&show_icons=true&theme=default&include_all_commits=true&count_private=true&title_color=1A3A5C&icon_color=B8973A&border_color=e4e0d8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshvishwanadula-lgtm&layout=compact&theme=default&title_color=1A3A5C&border_color=e4e0d8"/>
 
 </div>
 
@@ -150,7 +150,7 @@ I'm actively looking for **Senior AI/ML Engineer**, **Applied AI**, and **Genera
 
 - 📧 **Email:** santhoshvishwanadula7@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/santhoshvishwanadula](https://www.linkedin.com/in/santhoshvishwanadula)
-- 🌐 **Portfolio:** [santhoshvishwanadula7-lgtm.github.io](https://santhoshvishwanadula7-lgtm.github.io)
+- 🌐 **Portfolio:** [santhoshvishwanadula7-lgtm.github.io](https://santhoshvishwanadula-lgtm.github.io)
 - 📞 **Phone:** (786) 561-5790
 
 ---
